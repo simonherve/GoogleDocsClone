@@ -7,12 +7,6 @@ const Home = () => {
       <Button>
         Click me
       </Button>
-      <Button size={"sm"}>
-        Click me
-      </Button>
-      <Button size={"lg"}>
-        Click me
-      </Button>
     </div>
   );
 }
